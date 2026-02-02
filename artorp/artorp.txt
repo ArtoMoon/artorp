@@ -1,0 +1,7 @@
+"artorp"
+{
+	"base"		"sandbox"
+	"title"		"ArtoRP"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+}
